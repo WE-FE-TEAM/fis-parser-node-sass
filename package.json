@@ -12,7 +12,7 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:fex-team/fis-parser-node-sass.git",
-    "web": "https://github.com/fex-team/fis-parser-node-sass.git"
+    "web": "https://github.com/WE-FE-TEAM/fis-parser-node-sass"
   },
   "engines": {
     "node": ">=8.2.1"
@@ -20,6 +20,6 @@
   "scripts": {
   },
   "dependencies": {
-    "node-sass": "^4.5.3"
+    "node-sass": "^4.11.0"
   }
 }
